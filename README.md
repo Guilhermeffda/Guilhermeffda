@@ -1,6 +1,6 @@
 ## Hello there, I'm Guilherme Ferraz 👋
 
-- 🖥️ computer science [5/8]
+- 🖥️ Computer Science in PUCPR [5/8]
 - Programming since 2023
 
 ## Technologies I use in my daily life 🤓
