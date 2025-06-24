@@ -17,8 +17,7 @@
 
 <div>
   <a href="https://github.com/Guilhermeffda">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermeffda&layout=compact&langs_count=16&theme=midnight-purple&cache_seconds=1800"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermeffda&layout=compact&theme=midnight-purple&hide=procfile&exclude_repo=repo-indesejado&nocache=1"/>
   </a>
 </div>
 
