@@ -7,7 +7,7 @@ Computer Science student at PUCPR and backend developer passionate about Ruby on
 - 💻 Programming since 2023
 - 🚀 Focused on Backend Development
 - 🐧 Linux enthusiast
-- ❤️ Ruby on Rails
+- 🛑 Ruby on Rails
 
 ## Tech Stack
 
