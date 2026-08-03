@@ -1,7 +1,7 @@
 
 ## Hello there, I'm Guilherme Ferraz 👋
 
-Computer Science student at PUCPR and backend developer passionate about Ruby on Rails, Linux, and modern web technologies.
+Computer Science student at PUCPR and Full-Stack developer passionate about Ruby on Rails, Linux, and modern web technologies.
 
 - 🖥️ Computer Science at PUCPR (7th/8th semester)
 - 💻 Programming since 2023
