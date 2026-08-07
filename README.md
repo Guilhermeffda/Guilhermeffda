@@ -48,11 +48,6 @@ Computer Science student at PUCPR and Full-Stack developer passionate about Ruby
 ## GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=guilhermeffda&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeffda&layout=compact&theme=github_dark&hide_border=true" />
-</div>
-
-<div align="center">
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermeffda&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true" />
   <br/>
